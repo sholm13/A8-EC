@@ -133,7 +133,7 @@ public class LifeController {
 		view.show(model.getBoard());
 
 	}
-	//
+	
 	//	public void run(int[][] board, int width, int height, 
 	//			int upper_birth_thresh, int lower_birth_thresh, 
 	//			int upper_survive_thresh, int lower_survive_thresh){
