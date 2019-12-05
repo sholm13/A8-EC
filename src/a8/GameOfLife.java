@@ -2,7 +2,7 @@ package a8;
 
 import javax.swing.JFrame;
 
-public class Main {
+public class GameOfLife {
 
 	public static void main(String[] args) {
 		LifeModel model = new LifeModel(20, 20, 3, 2, 3, 3);
